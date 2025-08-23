@@ -1,0 +1,12 @@
+h1 {
+    color:  red;
+    background-color: green;
+    border: 2px dashed blue;
+
+}
+h2 {
+    color: rgb(92, 172, 148);
+}
+ul li {
+    color: green;
+}
